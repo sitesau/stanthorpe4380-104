@@ -1,0 +1,22 @@
+{
+  "wheel_id": 683,
+  "structure": "umbrella",
+  "slug": "stanthorpe4380-104",
+  "project": "business-directory-stanthorpe-what-to-expect-4e48aa3acc69d3a01a",
+  "parent_t1_ref": "stanthorpe4380-151",
+  "node_role": "feeder",
+  "money_target": "stanthorpe4380.com.au",
+  "primary_kw": "business directory stanthorpe what to expect",
+  "intended_url": "https://sitesau.github.io/stanthorpe4380-104/",
+  "tier": "T2",
+  "writeback_nonce": "f5050c6f49147306",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea/",
+      "anchor": "https://aumedia.neocities.org/business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
